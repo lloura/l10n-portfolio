@@ -21,11 +21,11 @@ Diferente de uma tradução literal, entendo a localização como o processo de 
 ## Índice de Contribuições
 
 ### [Alpaca](Alpaca/)
-- [#1025 - Complete and standardize pt_BR translation](<Alpaca/Complete and standardize Brazilian Portuguese (pt_BR) translation #1025.md>)
-- [#1063 - Update pt_BR translation and standardize new strings](<Alpaca/Update pt_BR translation and standardize new strings #1063.md>)
+- [#1025 - Complete and standardize pt_BR translation](<https://github.com/lloura/l10n-portfolio/blob/main/Alpaca/%20Complete%20and%20standardize%20Brazilian%20Portuguese%20(pt_BR)%20translation%20%231025.md>)
+- [#1063 - Update pt_BR translation and standardize new strings](<https://github.com/lloura/l10n-portfolio/blob/main/Alpaca/%20Update%20pt_BR%20translation%20and%20standardize%20new%20strings%20%231063.md>)
 
 ### [Iconic](Iconic/)
-- [#59 - Update pt_BR translation and standardize UI terminology](<Iconic/Update pt_BR translation and standardize UI terminology #59.md>)
+- [#59 - Update pt_BR translation and standardize UI terminology](<https://github.com/lloura/l10n-portfolio/blob/main/Iconic/Update%20pt_BR%20translation%20and%20standardize%20UI%20terminology%20%2359.md>)
 
 ---
 
